@@ -6,7 +6,7 @@ Esta documentación reúne las mejores prácticas para desarrollar en C#, enfoc�
 
 ## 📖 Contenido  
 
-🔹 **[Principios SOLID](solid.md)**  
+🔹 **[Principios SOLID](SOLID.md)**  
 Los principios SOLID son **buenas prácticas de diseño orientado a objetos** que mejoran la **escalabilidad, mantenibilidad y flexibilidad del código**.  
 
 **Temas que se tocan**  
@@ -30,7 +30,7 @@ El asincronismo en C# es clave para mejorar la **eficiencia y rendimiento** de l
 ✅ Evitar `async void`, usar siempre `async Task`.  
 
 ---  
-🔹 **[Uso Correcto de HttpClient](httpclient.md)**  
+🔹 **[Uso Correcto de HttpClient](HttpClient.md)**  
 El uso incorrecto de `HttpClient` puede generar **fugas de memoria, bloqueos y saturación del servidor**.  
 
 **Temas que se tocan**  
